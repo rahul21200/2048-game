@@ -1,3 +1,4 @@
+# File containing all the properties/constants of the game
 SIZE = 400
 GRID_LEN = 4
 GRID_PADDING = 10
