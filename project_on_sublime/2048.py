@@ -1,4 +1,4 @@
-#Notes for my understanding
+#Notes for understanding
 
 #A Frame is a container widget which is placed inside a window,
 #which can have its own border and background – it is used to group related widgets together in an application’s layout.
@@ -91,5 +91,5 @@ class Game2048(Frame):
                         text="Lose!", bg=c.BACKGROUND_COLOR_CELL_EMPTY)
 
 
-
+# Main
 gamegrid = Game2048()
